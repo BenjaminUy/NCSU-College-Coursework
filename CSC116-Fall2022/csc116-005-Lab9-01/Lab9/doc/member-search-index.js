@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SeriesOfNumbers","l":"getInteger(Scanner)","u":"getInteger(java.util.Scanner)"},{"p":"<Unnamed>","c":"SeriesOfNumbers","l":"getSeries(int)"},{"p":"<Unnamed>","c":"SeriesOfNumbers","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SeriesOfNumbers","l":"SeriesOfNumbers()","u":"%3Cinit%3E()"}];updateSearchResults();
