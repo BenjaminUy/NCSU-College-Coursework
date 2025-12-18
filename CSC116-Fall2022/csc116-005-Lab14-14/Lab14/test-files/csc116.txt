@@ -1,0 +1,5 @@
+An introductory course in computing in Java. Emphasis on algorithm development
+and problem solving. Careful and methodical development of Java applications from 
+specifications; documentation and style; appropriate use of control structures; classes 
+and methods; data types and data abstraction; object-oriented programming and design; 
+software testing.

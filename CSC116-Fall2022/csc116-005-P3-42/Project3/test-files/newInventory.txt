@@ -1,0 +1,4 @@
+PE0195,pencil,34
+DO1162,cooking oil,1
+CT1920,white tablecloths,9
+MU5170,antique music box,3

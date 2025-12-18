@@ -1,0 +1,2 @@
+YYYYMMDD,Average(F),High(F),Low(F),Fog/Rain/Snow/Hail/Thunder/Tornado
+20200101,52.5,123.4,-10.2,000000
