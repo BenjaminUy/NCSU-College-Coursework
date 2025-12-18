@@ -1,0 +1,40 @@
+remove something
+get something
+set missing-quote "here
+set single-quote "
+set double-quote ""
+set 2 _
+set string "red"
+set string "extra" text
+set string      
+set
+
+set int 2
+plus string 2
+set double 2.0
+plus double 1.3
+plus double "red"
+plus int 2.0
+plus int 1 extra
+plus nothing
+plus 
+
+size extra
+
+remove invalidchar
+remove invalid
+remove invalid
+remove something else
+
+plus invalidchar
+plus int 
+plus int _
+plus doesNotExist 12
+
+get invalidchar
+get invalidchar
+get invalid
+
+video
+
+quit extra
