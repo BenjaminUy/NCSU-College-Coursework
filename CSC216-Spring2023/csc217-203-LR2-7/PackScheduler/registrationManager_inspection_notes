@@ -1,0 +1,10 @@
+ SpotBugs Issues
+ line 104 - Unwritten field courseCatalog in RegistrationManager.clearData()
+ line 105 - Unwritten field studentDirectory in RegistrationManager.clearData()
+ line 71 - Unwritten field studentDirectory in RegistrationManager.login()
+ 
+ Additional Bugs/Fixes
+ For ReigistrationManager.login(), added an if statement checking if the student
+ object from the student directory was null. If it was, throw an illegal argument exception.
+ Also updated if statement to include the potential for a null registrar.
+ 

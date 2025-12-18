@@ -1,0 +1,5 @@
+# CSC 116 Grader,15,15
+* 1,Submitted,Charles,Mackney,cmackn7,,
+* 2,Submitted,Ben,Studor,bstudo9,,
+# CSC 216 Tutor,16,16
+* 1,Submitted,Amy,Julien,ajulie3,,
